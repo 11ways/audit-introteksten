@@ -1,0 +1,8 @@
+.gitignore~[0-9]~
+*.md~[0-9]~
+*.html~[0-9]~
+*.css~[0-9]~
+*.js~[0-9]~
+*.sh~[0-9]~
+*.bak
+.bash_history
