@@ -5,4 +5,5 @@ voor digitale toegankelijkheid, zoals BOSA, Agence du Numérique, COCOF en Equal
 
 Deze introteksten worden gebruikt in auditverslagen die in principe publiek toegankelijk gemaakt kunnen worden.
 
-Auteursrechten bevinden zich bij de respectieve controle-instanties.
+Auteursrechten bevinden zich bij de respectievelijke controle-instanties.
+
