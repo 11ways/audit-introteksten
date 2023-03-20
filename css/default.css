@@ -1,0 +1,11 @@
+body { 
+  padding: 10px 40px;
+  font-family: 'Trebuchet MS', Verdana, sans-serif;
+}
+
+header {}
+
+footer { margin-top: 50px;
+  border-top: 2px solid #CCC;
+}
+
