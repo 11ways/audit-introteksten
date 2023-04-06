@@ -1,11 +1,61 @@
-body { 
+body {
   padding: 10px 40px;
   font-family: 'Trebuchet MS', Verdana, sans-serif;
 }
 
-header {}
+header {
+  border: 6px solid var(--border-color-good);
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+section[lang], section.a11y-statement {
+  border-width: 6px;
+  border-style: solid;
+  margin: 12px 0;
+  padding: 20px;
+}
+
+div.conform, div.conform-partial, div.conform-not {
+  border-width: 4px;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+div.conform {
+  border-style: solid;
+}
+div.conform-partial {
+  border-style: dashed;
+}
+div.conform-not {
+  border-style: dotted;
+}
+
+section.a11y-statement-ok, div.conform {
+  border-color: var(--border-color-good);
+}
+section.a11y-statement-incomplete, div.conform-partial {
+  border-style: dashed;
+  border-color: var(--border-color-almost-good);
+}
+section.a11y-statement-incorrect {
+  border-style: dotted;
+  border-color: var(--border-color-almost-bad);
+}
+section.a11y-statement-absent, div.conform-not {
+  border-style: double;
+  border-color: var(--border-color-bad);
+}
 
 footer { margin-top: 50px;
   border-top: 2px solid #CCC;
+}
+
+:root {
+  --border-color-good: #2d5f46;
+  --border-color-almost-good: #505050;
+  --border-color-almost-bad: #C6011F;
+  --border-color-bad: #AA0000;
 }
 
