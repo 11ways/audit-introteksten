@@ -7,7 +7,7 @@ Deze introteksten worden gebruikt in auditverslagen die in principe publiek toeg
 
 Auteursrechten bevinden zich bij de respectievelijke controle-instanties.
 
-Website: [audit-introteksten](https://elevenways.github.io/audit-introteksten/).
+Website: [audit-introteksten](https://11ways.github.io/audit-introteksten/).
 
 ## Gebruiksaanwijzing
 
